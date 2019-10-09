@@ -2,7 +2,7 @@
 
 we put up units to be developed with "up for grab" and "in progress" labels
 content providers can propose a unit with a pull request, mentioning the above issue
-the pull request should contain a change to the "units" file, mentioning the URL to the developed unit in moodle
+the pull request should contain a change to the "contents" file, mentioning the URL to the developed unit in moodle
 
 reviewers should create issues with "concern" tag, mentioning the pull request
 we either close a concern, or add "valid" tag to it
