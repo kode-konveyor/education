@@ -1,0 +1,119 @@
+
+1. Basics of Programming
+   1. Using TDD in Eclipse
+      1. What is TDD and why it is good?
+      2. Setting up the environment: Eclipse
+      3. Your first Unit test
+      4. Syntax
+   2. Java basics
+      1. Variables and primitive types
+         1. Operators
+      2. Fields and more types
+      3. List, class, instance newt jobban el kell magyarázni 
+         1. Instances and Equality 
+      4. Methods
+      5. Arrays
+      6. Printing and mocking
+         1. Our first production code and application 
+      7. Build, run and run tests on a Java project. Linux Tamás, Windows Endre, tananyag Mag, quiz Tamás
+      8. Maven
+      9. Mocking
+      10. Branching statements
+      11. Loops
+      12. Exceptions
+      13. Setting up the environment: git and github
+      14. Inheritance
+      15. Service, spring
+      16. DTO, lombok
+      17. Interfaces
+      18. Generics and Collections
+      19. Stream API + Optional
+   3. Unit testing
+      1. How to write unit tests in JUnit
+      2. Mockito
+      3. TDD basics
+      4. Test coverage 
+      5. Mutation coverage
+
+
+2. Tools
+   1. Command line
+      1. Running our code in the command line
+      2. Running maven from command line
+   2. Git
+      1. Version control steps (history, stage, working directory)
+      2. Branching
+      3. Rebase / Merge
+      4. Resolving Conflicts
+      5. git-flow
+      6. Maven / Gradle
+      7. Main features of project management tools
+      8. Debugging
+      9. Println &co
+      10. Using coverage
+      11. Reading stack trace
+      12. Debugger
+
+
+3.  Spring (through our pattern)
+   1. Spring Framework
+      1. Managed Beans
+      2. Dependency Injection
+      3. Resources
+      4. Validation
+      5. Data Binding
+   2. Spring Boot
+   3. Spring Data
+      1. Spring Data JPA
+      2. Spring Data Mongo
+   4. Spring MVC
+
+
+4. OOP Design
+   1. Design Principles
+      1. SOLID
+      2. Inversion of Control
+      3. KISS
+      4. YAGNI
+   2. Antipatterns - the related coding rules, better solutions
+      1. NULL References
+      2. Utility Classes
+      3. Singleton
+      4. God Class
+      5. Premature Optimizations
+      6. Fear of Adding Classes
+      7. Magic Numbers / Strings
+      8. Inner-Platform Effect
+      9. Anemic Domain Model
+      10. Call Super
+      11. Square-Rectangle Problem
+   3. Using the framework
+   4. Coding rules, see https://adadocs.demokracia.rulez.org/zenta-tools/magwas/master/zenta-tools/codingrules.html
+   5. Implementation pattern, see https://docs.google.com/document/d/1zKO8gJ8rdPUUkj6xiti_E08Y4QKO2AB4F-qO5__Dtb0/edit?usp=sharing 
+      1. Unit Test, Test Data
+      2. Service
+      3. DTO and Factory
+      4. Modifying Test Data
+      5. Stub Provider
+      6. Test Helper
+      7. Delegate
+   6. The process
+      1. Reading an issue, architecture docs
+      2. Locking a task
+      3. Local build environment
+      4. CI
+      5. Understanding Sonar issues
+      6. Submitting a task
+      7. Review
+      8. Pointers to further information
+
+
+5. Skills and culture - paralel, in assignments
+   1. Searching
+   2. Verifying information
+   3. Stack overflow, how to behave well
+   4. Open source, free culture
+   5. Working independently
+   6. Understanding algorithms
+   7. Remote work
+   8. Time management
